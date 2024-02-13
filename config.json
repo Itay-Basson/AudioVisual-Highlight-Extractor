@@ -1,0 +1,12 @@
+{
+  "video_file": "path/to/your/video.mp4",
+  "special_words_file": "path/to/your/special_words.txt",
+  "music_file": "path/to/your/background_music.mp3",
+  "model_path": "path/to/your/vosk-model",
+  "output_audio_file": "output_audio.wav",
+  "output_gif_file": "animated_gif.gif",
+  "output_video_file": "video_with_music.mp4",
+  "window_size": 1500,
+  "threshold_multiplier": 1.5,
+  "min_duration": 1000
+}
